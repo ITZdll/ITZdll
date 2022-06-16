@@ -3,10 +3,13 @@
 ### About Me:
 ```
 - I'm iTZdll, Known As (YAMI)
-- I Love To Developer
+- I Love To Develope
 - I'm Front-End Web Developer
+- I'm Currently Working On Random Projects
+- I'm Student
 ```
 
+<br>
 <br>
 
  ### ✨ Experience:
