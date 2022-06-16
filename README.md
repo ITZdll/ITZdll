@@ -10,6 +10,7 @@
 <a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986959194378883092/unknown.png" alt="github" width="30"></a>
 <a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986959431638085632/unknown.png" alt="git" width="30"></a>
 </p>
+<br>
 
   ### 📫 How To Find Me
  <p  align="center">
@@ -18,6 +19,7 @@
 
 </div>
 </p>
+<br>
 
 ### 💫 Social Status
 <p  align="center">
@@ -28,6 +30,7 @@
    <img src="https://komarev.com/ghpvc/?username=ITZdll">
 </a>
 </p>
+<br>
 
 ###  📁 Github Status
 <p  align="center">
