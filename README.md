@@ -5,6 +5,7 @@
 - I'm iTZdll, Known As (YAMI)
 - I'm Front-End Web Developer
 - I'm Currently Working On Random Projects
+- I'm Currently Learning C Language For Fun
 - I'm Student
 ```
 
