@@ -20,13 +20,15 @@
 
 <br>
 
-  ### 📫 How To Find Me:
- <a href="https://www.instagram.com/_itzdll/" target="blank"><img src="https://cdn.discordapp.com/attachments/986957357235978261/986957365196775465/unknown.png" alt="instgram" width="30"></a>
-<a href="https://twitter.com/iTZdll"><img src="https://cdn.discordapp.com/attachments/986957357235978261/986957472549990430/unknown.png" alt="twitter" width="30"></a>
-</div>
+### How To Find Me:
+```
+- Instagram: _itzdll
+- Twitter: iTZdll
+```
+
 <br>
 
-### 💫 Social Status:
+### Profile Status:
 <a href="https://github.com/ITZdll?tab=followers">
   <img src="https://img.shields.io/github/followers/ITZdll">
 </a>
