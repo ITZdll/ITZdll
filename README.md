@@ -10,14 +10,13 @@
 
 <br>
 
- ### ✨ Experience:
-  <a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986958295615012944/unknown.png" alt="html" width="30"></a>
-<a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986958830686593034/unknown.png" alt="css" width="30"></a>
-<a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986958919165444096/unknown.png" alt="javascript" width="30"></a>
-<a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986959112644476948/unknown.png" alt="bootstrap" width="30"></a>
-<a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986959038099107931/unknown.png" alt="react" width="30"></a>
-<a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986959194378883092/unknown.png" alt="github" width="30"></a>
-<a ><img src="https://cdn.discordapp.com/attachments/986957357235978261/986959431638085632/unknown.png" alt="git" width="30"></a>
+ ### I've Knowledge With:
+ ```
+ - HTML/CSS
+ - Javascript
+ - Lua
+ - C
+ ```
 
 <br>
 
