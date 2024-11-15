@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm Yami, a passionate software developer with expertise i
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/Liquid-CS/Liquid) - A FiveM Roleplay Framework.
+- [Liquid](https://github.com/Liquid-CS/Liquid) - A FiveM Roleplay Framework.
 
 ---
 
