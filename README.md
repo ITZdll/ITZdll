@@ -5,10 +5,11 @@ Hi! I’m **Yami**, a software developer passionate about creating efficient and
 ---
 
 ## 🛠️ **Tech Stack**  
-- **Frontend:** HTML, CSS, SASS, React, Next.js  
-- **Backend:** Node.js, Express, TypeScript, Lua  
+- **Web:** HTML, CSS, SASS
+- **Programming Language:** C, C++, Javascript, TypeScript, PHP, Go, Lua
+- **Frameworks:** React, Next.js, Express
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Docker, Git, VS Code  
+- **Tools:** Node.js, Docker, Git, VS Code
 
 ---
 
