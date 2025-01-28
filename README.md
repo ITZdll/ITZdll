@@ -14,7 +14,7 @@ Hi! I’m **Yami**, a software developer passionate about creating efficient and
 
 ## 📂 **Projects**  
 - [**Liquid**](https://github.com/Liquid-CS/Liquid): A FiveM Roleplay Framework.  
-- Custom Discord Bots using **Discord.js**.  
+- [**Quee**](https://github.com/Quee-Corporation): A Discord Bots Organization.  
 
 ---
 
